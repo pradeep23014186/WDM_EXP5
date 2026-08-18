@@ -1,5 +1,5 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 22/05/2026
+### DATE: 18/08/2026
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
@@ -23,8 +23,8 @@ The Boolean model in Information Retrieval (IR) is a fundamental model used for 
 
 ### Program:
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108 
+Developed By : Pradeep Kumar G
+Register No. : 212223230150 
 ```
     import numpy as np
     import pandas as pd
